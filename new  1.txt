@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>Introduction</head>
+<p>Introductory with instructors and organizations of TTS (Founder, Co-founder, best buddy, and TAs)
+on slack msg instructor with your name (msg) - github
+creating a web app using rails 
+</p>
+
+<p>------
+getting rid of stuff 
+rmdir Junk  (if it's empty in Windows)
+rm -rf Junk (this is in mac...)
+Mac- pwd 
+
+**** do I need to update my gem everytime I use my git bash terminal because my project does not upload
+how do i update gem manually 
+</p>
+</html>
